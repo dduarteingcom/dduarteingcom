@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hola, mi nombre es Daniel Duarte 👋
+Soy estudiante de Ingeniería en Computadores del Tecnológico de Costa Rica, actualmente estoy cursando mi cuarto año de carrera.
 <!--
 **dduarteingcom/dduarteingcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
